@@ -6,11 +6,11 @@
     "email": "jnc9513@hawaii.edu",
     "phone": "808-800-7909",
     "website": "joshcrockett.github.io/joshuacrockett/",
-    "summary": "I am studying for a B.S. in Computer Science in the Department of Information and Computer Sciences at the University of Hawaii. I expect to graduate in Spring, 2024.",
+    "summary": "I am studying for a B.S. in Computer Engineering in the College of Engineering at the University of Hawaii. I expect to graduate in Spring, 2026.",
     "location": { "address": "", "postalCode": "96822", "city": "Honolulu", "countryCode": "USA", "region": "Hawaii" },
     "profiles": [
-      { "network": "github", "username": "joshcrockett", "url": "http://github.com/changeme" },
-      { "network": "linkedin", "username": "Joshua Crockett", "url": "http://linkedin.com/in/changeme" },
+      { "network": "github", "username": "joshcrockett", "url": "https://github.com/JoshCrockett" },
+      { "network": "linkedin", "username": "Joshua Crockett", "url": "https://www.linkedin.com/in/joshua-crockett-808305191/" },
     ]
   },
   "interests": [
@@ -22,7 +22,7 @@
   "skills": [
     {
       "name": "Languages and Frameworks",
-      "keywords": [ "C", "C++", "Java", "Javascript", "Assembly", "Common Lisp" ]
+      "keywords": [ "C", "C++", "Verilog", "Python", "Assembly", "Common Lisp" ]
     },
     {
       "name": "Toolsets/OS",
