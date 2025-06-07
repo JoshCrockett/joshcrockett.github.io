@@ -19,7 +19,7 @@ labels:
 
 ## About the WODs.
 
-  The WODs were designed in a way that was meant to almost force us to speedrun the code. This approach to learning was very interesting to deal with, because it seemingly incentivized you to think fast. This approach can be useful and stressful in equal parts. It certainly did help us to 
+  The WODs were designed in a way that was meant to almost force us to speedrun the code. This approach to learning was very interesting to deal with, because it seemingly incentivized you to think fast. This approach can be useful and stressful in equal parts. It certainly did help us to get more into a mindset of programming that might be useful in the context of an interview, but knowing that you were being actively timed while trying to think fast about what you need to do next was simultaneously thrilling and stressful. Because of this, the first WOD did take me a few attempts to try and get correct, between the stress and general newness to programming in TypeScript. In the end though, those WODs did somehow get marginally easier for me as I proceeded through attempts, to the point that the second WOD I attempted ended up being a lot quicker to go through. I ultimately hope that as I continue through these WODs, it will take me less time to achieve ideal times, because being able to code quickly and accurately is a skill worth picking up, in my eyes.
 
 ## Tools that Helped
 
