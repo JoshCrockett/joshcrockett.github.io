@@ -6,47 +6,22 @@ title: "Typescript: A New Type of Learning"
 date: 2025-02-06
 published: true
 labels:
-  - Engineering
+  - TypeScript
 ---
 
-*How Software Engineering, and a little bit of competitive spirit taught me Typescript.*
+*How software engineering, and a little bit of competitive spirit taught me Typescript.*
 
-One of my friends asked the question earlier last week -- why is it so hard to be an officer for the student branch? Why is so hard compared to working at my on-campus job? This question came after he struggled a little with bookkeeping for the student organization.
+  This past week, I learned how to program using TypeScript. It was certainly a very unique experience to behold - we were tasked with going through a freecodecamp lesson plan that helped us learn the basics of Typescript, and then proceeded to run through a few excercises designed to help us approach these problems at a faster pace - they were dubbed "Workouts of the Day" or WODs. These were all incredibly interesting to experience, and I wanted to log down what each of these tasks were like, and how I personally felt about each of them. Spoilers... despite the frantic nature of it all, I did enjoy it.
 
-Now I gave him the standard answer - being an officer of an organization requires that you manage your time between school and work. There isn't anyone telling you what to do. It's the answer any good mentor would give, and is mostly true.
+## Learning Typescript
 
-But the more I though about it, the more I wondered to myself...damn that's a really great question; it's one that deserves some more thought. Most people I think stop at the answer I gave previously - he obviously isn't managing his time properly.
+  To give some background on my coding experience, in the past, I've mostly worked with only C, C#, C++, Python, and Verilog. This meant that going into learning Typescript, I was essentially starting from a fresh slate. This made the freecodecamp tutorial on Typescript simultaneously very useful, and very tedious. The problem that I faced with freecodecamp was that a lot of the concepts that were taught were similar if not identical to other languages I've worked with before. This did make going through the tutorial super quick and enjoyable, but it did also come at the cost of some parts feeling admittedly redundant. However, I found that these excersizes did inevitably help out when it came time to do some actual code problems, doubly so when considering the format of those questions - the WODs.
 
-Here's what I think: the difficult things will always be difficult.
+## About the WODs.
 
-## In the context of programming
+  The WODs were designed in a way that was meant to almost force us to speedrun the code. This approach to learning was very interesting to deal with, because it seemingly incentivized you to think fast. This approach can be useful and stressful in equal parts. It certainly did help us to 
 
-In the context of programming, this has always been true. The difficult problems have always been different, although changes in technology can change the landscape quite a bit. "Business" type applications are the things that come to mind for me. Those types of applications are usually coupled in some way with people ... and people are awfully hard to deal with!
+## Tools that Helped
 
-Consider that one of the most popular content management systems is also considered the most horrible - Wordpress. But really, is there anything that fills that need? If it was so easy in the first place, where is the solution? Where's the magic CMS that is designed well enough that everyone hops on the boat to use it?
+  Most of the code that we worked on was done in a dedicated editor for TypeScript. This editor was simple enough to understand, which did prevent some growing aches that could've occurred with alternatives. The professor also gave us access to use of AI, to assist us however we needed. I personally believe that coding with AI is a good crutch, but not necessarily a good tutor, so when going through the code, I mostly tried to abstain from AI. There was one use that AI did help me though, which was that I did use it to generate alternative solutions to the code when I finished. I did this primarily because I wanted to see if there were more efficient ways I may not have used to implement the code - I recently finished an Algorithms class, and I recall that a huge focus of that class was in regards to time complexity, so seeing alternative general ways to improve time complexity by using AI was eye-opening and fascinating, to say the least.
 
-Some things are just difficult - building applications that humans use is hard, and will probably be hard for at least the near future.
-
-## In the context of engineering
-
-Ever hear people ragging on engineering companies for delivering late and way over budget? Well, some engineering jobs are really difficult, especially if the requirements and funding are undulating underneath you. Because of the nature of the problem, sometimes engineering firms require large amounts of engineers and workers, inviting further problems and delays.
-
-The Honolulu Rail project at home has become this sort of poster child of failure, budget overrun and overall incompetence in Hawaii. Well, working though regulatory boards and fiscal procedures in Hawaii seems like it's a mind bogglingly difficult job to do. Granted, there might be some fishy stuff going on, but I refuse to believe that everyone is involved for nefarious reasons.
-
-The problem of creating an unprecedented public transportation backbone on an island is difficult! I'm not sure we would have done it right, even if the best people were involved.
-
-## In the context of relationships
-
-So in the end, we realize that all engineering and programming is there for a reason - to serve human needs. Maybe that's why those things are difficult, because they both involve humans and are for humans.
-
-Relationships, regardless if they're romantic or not take work. Humans are fickle creatures and relationships can come and go with the wind. To properly maintain something over time requires work. Family takes work. Marriage takes work. We live to figure out what works and what doesn't and hope that as we move forward we're improving.
-
-Relationships have always been difficult, and by nature will continue to be so.
-
-## Okay!
-
-So back to the original premise; why is being one of the club officers so difficult?
-
-And the final answer - it's supposed to be difficult, and it's supposed to challenge you, just like everything else that humans do that is difficult: programming, engineering, engaging in relationships, pondering the universe, etc.
-
-Ultimately the question you should really ask yourself if something if particularly difficult is then "is it worth it"? That is something that is context specific and only you can answer yourself.
