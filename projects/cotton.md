@@ -2,7 +2,7 @@
 layout: project
 type: project
 image: img/cotton/cotton-square.png
-title: "Cotton"
+title: img/picow.jpg
 date: 2014
 published: true
 labels:
