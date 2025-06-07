@@ -1,6 +1,7 @@
 ---
 layout: project
 type: project
+image: "picow.jpg"
 title: "Ultrasonic Distance Sensor"
 date: 2014
 published: true
