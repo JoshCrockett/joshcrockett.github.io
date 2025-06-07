@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img/cotton/cotton-square.png
+image: downloads/picow.jpg
 title: "Ultrasonic Distance Sensor"
 date: 2014
 published: true
