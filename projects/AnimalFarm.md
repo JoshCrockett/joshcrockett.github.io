@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img/gambrel-9050-1.jpg 
+image: img/farmer.png 
 title: "Animal Farm"
 date: 2025
 published: true
