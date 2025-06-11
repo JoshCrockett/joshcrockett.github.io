@@ -3,7 +3,7 @@ layout: project
 type: project
 image: img/picow.jpg 
 title: "Ultrasonic Distance Sensor"
-date: 2014
+date: 2024
 published: true
 labels:
   - Python
