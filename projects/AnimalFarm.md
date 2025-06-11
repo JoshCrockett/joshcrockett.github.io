@@ -3,7 +3,7 @@ layout: project
 type: project
 image: img/farmer.png 
 title: "Animal Farm"
-date: 2025
+date: Spring 2024
 published: true
 labels:
   - Python
