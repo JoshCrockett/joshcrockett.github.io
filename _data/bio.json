@@ -1,7 +1,7 @@
 {
   "basics": {
     "name": "Joshua Crockett",
-    "label": "Student",
+    "label": "Computer EniStudent",
     "picture": "https://github.com/joshcrockett.png",
     "email": "jnc9513@hawaii.edu",
     "phone": "808-800-7909",
@@ -22,11 +22,11 @@
   "skills": [
     {
       "name": "Languages and Frameworks",
-      "keywords": [ "C", "C++", "Verilog", "Python", "Assembly", "Common Lisp" ]
+      "keywords": [ "C", "C++", "Verilog", "Python", "Assembly"]
     },
     {
       "name": "Toolsets/OS",
-      "keywords": [ "MacOS", "Ubuntu", "Git/GitHub", "g++", "TI LaunchPad" ]
+      "keywords": [ "Windows","Git/GitHub", "Linux" ]
     }
   ],
   "education": [
