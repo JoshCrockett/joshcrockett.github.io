@@ -8,9 +8,12 @@ published: true
 labels:
   - Stack Overflow
 ---
-<img width="400px" 
-     class="rounded float-start pe-4" 
-     src="../img/brain.jpg" >
+<img 
+  src="../img/brain.jpg" 
+  class="img-fluid rounded mx-auto d-block" 
+  style="width: 400px;" 
+  alt="Brain image">
+
 *How simple changes in phrasing can drastically affect answers.*
 
 Asking questions is important. This holds true not only in engineering but also in life. Because of this, the ability to construct a well-formulated question is a very valuable skill to have, as it allows people to get help that subsequently solves whatever they were pondering. However, the thing to note about questions is that there are many ways they can be constructed to be more effective. That is where the distinction between "smart" and "dumb" questions is made.
