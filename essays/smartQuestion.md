@@ -8,7 +8,7 @@ published: true
 labels:
   - Stack Overflow
 ---
-<img width="1000px" 
+<img width="400px" 
      class="rounded float-start pe-4" 
      src="../img/brain.jpg" >
 *How simple changes in phrasing can drastically affect answers.*
