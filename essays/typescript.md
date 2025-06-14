@@ -3,7 +3,7 @@ layout: essay
 type: essay
 title: "Typescript: A New Type of Learning"
 # All dates must be YYYY-MM-DD format!
-date: 2025-02-06
+date: 2025-06-11
 published: true
 labels:
   - TypeScript
