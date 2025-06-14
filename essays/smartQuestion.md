@@ -15,7 +15,7 @@ labels:
   alt="Brain image">
 
 <div style="text-align: center;">
-  *How simple changes in phrasing can drastically affect answers.*
+  How simple changes in phrasing can drastically affect answers.
 </div>
 
 
