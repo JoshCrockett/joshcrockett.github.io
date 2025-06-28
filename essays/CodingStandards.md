@@ -9,7 +9,7 @@ labels:
   - Stack Overflow
 ---
 <img 
-  src="../img/brain.jpg" 
+  src="../img/lint.png" 
   class="img-fluid rounded mx-auto d-block" 
   style="width: 600px;" 
   alt="Brain image">
