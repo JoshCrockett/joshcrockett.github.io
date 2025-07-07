@@ -3,27 +3,23 @@ layout: essay
 type: essay
 title: "Strapping up with Bootstrap"
 # All dates must be YYYY-MM-DD format!
-date: 2025-06-27
+date: 2025-07-06
 published: true
 labels:
   - Bootstrap 5
 ---
 <img 
-  src="../img/lint.png" 
+  src="../img/boostrap-icons.png" 
   class="img-fluid rounded mx-auto d-block" 
   style="width: 600px;" 
   alt="Brain image">
 
 <div style="text-align: center;">
-  
+How working with bootstrap organizes our websites
 </div>
 
-At this point in time, I've now completed a week's worth of coding with ESLint and VSCode. I've worked with both individually in the past, but it's always been to a more shallow level compared to here. As such, it's viable to have new impressions when working with these tools, because they are being used in differing ways compared to what I'm normally used to.
+At this point in time, I've now completed a week's worth of coding in HTML.  When building these websites in VSCode, we were tasked to use Bootstrap 5  for our websites. This was interesting to use, because bootstrap 5 is an incredibly useful framework that can be used in such a massive variety of ways, to the point where learning it can be rewarding in it of itself. However, because bootstrap is only a framework, it can require a ton of learning to be able to get the hang of. Luckily, through this past week, ample opportunity was provided to gain experience. And through this experience, we can explain what bootstrap does for us that raw HTML can't.
   
-## First Impressions
-When working with VSCode, the one immediate difference between my first and current uses of VSCode are the use of extensions. Initially, I had only enabled the bare skeletal minimum required for a class, which would be just a python compiler. Here though, because we're working in HTML, we're using other tools that are useful to augment our productivity - particularly HTML boilerplate which serves as a template for HTML compiling, and Github Copilot, an AI that helps us read and improve our code. These are interesting to note with and I believe they serve to help augment my productivity when going through coding problems. However, there is another tool we've started using to help our code out, one that challenges us to be more professional. That tool is the ability to lint your code.
-
-## On linting...
-The ability to lint your code, in my eyes, is a necessary evil. By no means is linting easy, as it often requires you to rethink and rebuild you entire code in order to satisfy it. However, the thing to note about linting is that frankly, it is guaranteed to make your code better should you comply. This ultimately makes using linting worthy, even in spite of the endless frustration that arises from it, as I personally believe that holding yourself to some level of standard is necessary in getting good at a skill. After all, it's nicer to move into a house that has been held to safety standards to ensure it's structural integrity compared to a house that still functions as a house, but may hide nasty surprises due to a lack of standard.
-
+## Why bootstrap?
+What makes bootstrap so useful to work with is that it almost entirely does wonders for the style of our pages. HTML is a pretty good language to build websites with, but it's limitations is that if you only use HTML and CSS, a website might look archaic, unless you're willing to put a lot of time into adding more lines to your code in order to make it. Bootstrap, by default, will help you out with color, spacing, and font, and it can also help you with designing menu bars and ways to navigate, all in much fewer lines. The tradeoff to this is that learning how to use bootstrap is arduous, but because it's arduous, it makes coding a website significantly easier to do once you finally get past the learning curve. 
 
