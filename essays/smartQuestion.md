@@ -1,13 +1,12 @@
 ---
 layout: essay
 type: essay
-title: "Yearbooks and Programming"
+title: "Asking Smart Questions"
 # All dates must be YYYY-MM-DD format!
 date: 2025-07-24
 published: true
 labels:
-  - Design Patterns
-  - Coding
+- Smart Questions
 ---
 <img 
   src="../img/brain.jpg" 
