@@ -1,12 +1,13 @@
 ---
 layout: essay
 type: essay
-title: "A Smart Approach to Asking Questions"
+title: "Yearbooks and Programming"
 # All dates must be YYYY-MM-DD format!
-date: 2025-06-13
+date: 2025-07-24
 published: true
 labels:
-  - Stack Overflow
+  - Design Patterns
+  - Coding
 ---
 <img 
   src="../img/brain.jpg" 
