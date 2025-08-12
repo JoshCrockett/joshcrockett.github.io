@@ -18,33 +18,33 @@ labels:
 
 ## My experiences with AI.
 &emsp;To document this effectively, I'm gonna quickly break down each section of the class, and describe how I used AI in them. There are many sections, but I will try to keep it brief. For now, we start with...
-# 1. Experience WODS.
+### 1. Experience WODS.
 AI was used in these WODS mostly to help me debug and clean up code to appease linting.
-# 2. Practice WODS.
+### 2. Practice WODS.
 AI wasn't used as frequently for these because we were given a solution to follow for these, so if I ever got lost, I deferred to the video. Only if I was lost in both the code and video, did I then defer to AI.
-# 3. Timed WODS.
+### 3. Timed WODS.
 AI was used for these, but mostly only for tasks that were repetitive - I did my best to keep the AI usage minimum for that reason, as these were meant to be a test of our knowledge.
-# 4. Essays.
+### 4. Essays.
 No AI was used. AI doesn't make for a fun reading experience in my mind, and it's more insightful to speak from the heart.
-# 5. Final Project.
+### 5. Final Project.
 AI was definitely used for this in order to implement some parts of the project that were things we could theorhetically do, but didn't necessarily know how to do. An example of this would be that I added an interactable map for one of my pages - a task not taught to us, but was useful for what we were trying to do.
-# 6. Learning Concepts.
+### 6. Learning Concepts.
 AI was absolutely used for this. Because there were growing pains when handling new software in the practice WODS, learning how to set up the environment was always a struggle, and this eased that a lot.
-# 7. Discord Questions.
+### 7. Discord Questions.
 In a similar vein to the essays, asking a question in plain understandable language is more useful than fancifying it through AI, so no AI was ever used.
-# 8. Asking Questions.
+### 8. Asking Questions.
 Just as fancifying questions in discord isn't the most useful, asking questions in general also doesn't need to be thoroughly altered through AI, so none was used.
-# 9. Coding Examples.
+### 9. Coding Examples.
 AI was used for this mostly to help assist with thinking of alternative ways to approach a problem.
-# 10. Explaining Code.
+### 10. Explaining Code.
 AI was used for this. Sometimes you get completely lost with what you're doing, and this is an easy way to catch you up.
-# 11. Writing Code.
+### 11. Writing Code.
 I definitely did do this, but mostly as a break glass if needed type thing.
-# 12. Documenting Code.
+### 12. Documenting Code.
 A lot of the time when you generate code, it also has a good habit of generating useful comments along with the bulk of the code. So I did do this, but not ever intentionally.
-# 13. Quality Assurance.
+### 13. Quality Assurance.
 I did this this, but mostly to help appease lint.
-# Other.
+### Other.
 Most of the AI use was limited to the above mentioned uses, so I can't really say I used AI for many other uses throughout the class.
 
 ## How AI Impacts Learning
