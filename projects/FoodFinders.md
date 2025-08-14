@@ -16,4 +16,4 @@ on the website for users to view, once they log in. There is also a map on the p
 
 This project has us work with teams, and we would approach developing this through issue-based development. We divided the work amongst ourselves so that each person had one specific aspect of the project to work on - one partner handled PostGRES, another handled Vercel, and I handled designing the webpages. This was spread out across a few weeks, and we were tasked to check in across two different "milestones".
 
-If you want to check the project out in more detail, you can find it (here!)[https://manoa-food-finder.github.io/]
+If you want to check the project out in more detail, you can find it [here!](https://manoa-food-finder.github.io/)
